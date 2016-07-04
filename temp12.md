@@ -1,4 +1,4 @@
-use Cache Notes for this blog project: 4
+temp12: use Cache Notes for this blog project: 4
 ===========================
 
 ##### about paginator
